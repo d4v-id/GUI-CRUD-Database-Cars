@@ -1,3 +1,2 @@
 # GUI-CRUD-Database-Cars
-1. Base GUI swing MigLayout with CRUD system.
-2. Connect local database file (.txt)
+Base GUI swing MigLayout with CRUD system and connect with local database file (.txt)
